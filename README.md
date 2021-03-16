@@ -11,6 +11,7 @@ https://imdanell.github.io/DayPlanner-5/
 ## Usage
 Type out your plans for the day and enjoy the ease of keeping on task with this color changing planner. Local storage keeps text in designated area when you refresh page.
 
+
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
