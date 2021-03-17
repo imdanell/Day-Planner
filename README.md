@@ -5,7 +5,7 @@ Map your day out and see your to-do's with this straightforward and easy to navi
 
 ## Link to View Site
 
-https://imdanell.github.io/DayPlanner-5/
+https://imdanell.github.io/Day-Planner/
 
 
 ## Usage
